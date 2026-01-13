@@ -26,4 +26,4 @@ Yapılan testler sonucunda modellerin doğruluk oranları şu şekildedir:
 
 Lojistik Regresyon modeli, bu veri setinde daha kararlı ve başarılı sonuçlar vermiştir.
 
-### 📄 [Proje Raporunu Görüntüle (PDF)](Berat_Yildiz_Titanic_Proje_Raporu.pdf)
+### 📄 [Proje Raporunu Görüntüle (PDF)](Titanic_Proje_Raporu.pdf)
